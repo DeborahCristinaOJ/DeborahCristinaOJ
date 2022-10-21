@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @DeborahCristinaOJ
-- 👀 I’m interested in creating games
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 <h1>Bem-vindo! Sou Deborah Cristina</h1>
+- Estou atualmente aprendendo HTML, CSS e C#
 
 <!---
 DeborahCristinaOJ/DeborahCristinaOJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
