@@ -1,4 +1,5 @@
 👋 <h1>Bem-vindo! Sou Deborah Cristina</h1>
+<img src="https://www.seekpng.com/png/full/842-8429140_wearing-cat-github-sunglasses-sunscreen-free-transparent-cool.png">
 - Estou atualmente aprendendo HTML, CSS e C#
 
 <!---
