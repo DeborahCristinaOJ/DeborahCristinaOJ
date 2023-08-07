@@ -2,6 +2,7 @@
 <p align="center">
 - Estou aprendendo atualmente:
 <br><br>
+ <span><img style="height: 40px; width: 30%;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg](https://commons.wikimedia.org/wiki/File:Webysther_20160423_-_Elephpant.svg)"/></span>
 <span><img style="height: 40px; width: 30%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/></span>
 <span><img style="height: 40px; width: 30%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/></span>
 <span><img style="height: 40px; width: 30%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></span>
