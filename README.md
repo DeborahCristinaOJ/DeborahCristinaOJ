@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/wNZ2Y0C/banner-1.png" alt="background-drawing-made-by-deborah-cristina" border="0"></a>
-</p>
 <h2 align="center">Sou Deborah Cristina</h2>
 <p align="center">
 - Estou aprendendo atualmente:
